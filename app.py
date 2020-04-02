@@ -8,6 +8,7 @@ from security import authenticate, identity
 from resources.user import UserRegister
 from resources.item import Item, ItemList
 from resources.store import Store, StoreList
+#this is test this was written on the day github was down
 
 app = Flask(__name__)
 
